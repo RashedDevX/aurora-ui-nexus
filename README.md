@@ -63,4 +63,4 @@ This project is conceptualized, designed, and developed by **RashedDevX**.
 
 <div align="center">
   <p>Engineered for the future by <b>RashedDevX</b> 🛸</p>
-</div># aurora-ui-nexus
+</div>#RashedDevX
