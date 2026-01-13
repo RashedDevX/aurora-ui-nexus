@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Aurora UI Nexus Banner" src="" />
+<img width="1200" height="475" alt="Aurora UI Nexus Banner" src="https://github.com/RashedDevX/aurora-ui-nexus/blob/main/Screenshot_103.png" />
 
 # 🌌 Aurora UI Nexus
 **A Futuristic Nexus of Aesthetic UI Components & Design Excellence.**
